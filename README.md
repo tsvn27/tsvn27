@@ -12,13 +12,13 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=tsvn27&theme=dark&hide_border=false&include_all_commits=true"
         alt="Estatísticas do GitHub"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvn27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Linguagens Mais Usadas"
       />
     </td>
@@ -27,7 +27,7 @@
 
 <div>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tsvn27&theme=dark&hide_border=false"
     alt="Contribuições Consecutivas"
   />
 </div>
@@ -43,7 +43,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=tsvn27&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
