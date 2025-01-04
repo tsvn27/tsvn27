@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Kayo!
+# 👋 Hi, I am Kayo!
 
-### 💻 Desenvolvedor apaixonado por tecnologia, programação e sempre em busca de aprender algo novo.
+### 💻 Desenvolvedor por diversão, sempre em busca de aprender algo novo.
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 🚀 **Minhas Skills**
+### 🚀 **Skills**
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -73,10 +73,5 @@
 </div>
 
 ---
-
-### 💡 **Sobre Mim**
-- 🌱 Atualmente aprendendo **JavaScript**, **Node.js**, e **React**.
-- 🚀 Explorando novas tecnologias e trabalhando em projetos inovadores.
-- 🎯 Objetivo: **Colaborar em projetos open source e impactar a comunidade tech.**
 
 </div>
