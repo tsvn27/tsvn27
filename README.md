@@ -1,42 +1,45 @@
-## Olá, meu nome é Kayo!
+<div align="center">
 
-### ⚙️ GitHub Analytics
+# 👋 Olá, eu sou Kayo!
 
-<table>
+### 💻 Desenvolvedor apaixonado por tecnologia, programação e sempre em busca de aprender algo novo.
+
+---
+
+### ⚙️ **GitHub Analytics**
+
+<table align="center">
   <tr>
     <td>
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
+        alt="Estatísticas do GitHub"
       />
     </td>
     <td>
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
+        alt="Linguagens Mais Usadas"
       />
     </td>
   </tr>
 </table>
 
---- 
+<div>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+    alt="Contribuições Consecutivas"
+  />
+</div>
 
-### 🏆 GitHub Profile Trophy
+---
+
+### 🏆 **GitHub Profile Trophy**
 
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
+    title="Repositório de Troféus"
   >
     <img
       width="800"
@@ -47,13 +50,36 @@
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+### 📍 **Profile Visitor Count**
 
-<p align="center">
+<div align="center">
   <img
     src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
+    alt="Número de Visitantes no Perfil"
   />
+</div>
+
+---
+
+### 🔗 **Minhas Redes**
+
+<p align="center">
+  <a href="https://github.com/iuricode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/iuricode/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/iuricode" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
+
+---
+
+### 💡 **Sobre Mim**
+- 🌱 Atualmente aprendendo **JavaScript**, **Node.js**, e **React**.
+- 🚀 Explorando novas tecnologias e trabalhando em projetos inovadores.
+- 🎯 Objetivo: **Colaborar em projetos open source e impactar a comunidade tech.**
+
+</div>
