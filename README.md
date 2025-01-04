@@ -67,7 +67,7 @@
 
 <div align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/tsvn27/count.svg"
     alt="Número de Visitantes no Perfil"
   />
 </div>
