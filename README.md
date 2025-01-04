@@ -2,7 +2,7 @@
 
 # 👋 Hi, I am Kayo!
 
-### 💻 Desenvolvedor por diversão, sempre em busca de aprender algo novo.
+### 💻 Developer for fun, always looking to learn something new.
 
 ---
 
