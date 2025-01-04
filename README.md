@@ -50,6 +50,19 @@
 
 ---
 
+### 🚀 **Minhas Skills**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch" />
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+</div>
+
+---
+
 ### 📍 **Profile Visitor Count**
 
 <div align="center">
@@ -58,22 +71,6 @@
     alt="Número de Visitantes no Perfil"
   />
 </div>
-
----
-
-### 🔗 **Minhas Redes**
-
-<p align="center">
-  <a href="https://github.com/iuricode" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/iuricode/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/iuricode" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
 
 ---
 
