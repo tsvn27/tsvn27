@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch" />
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="React.js" />
 </div>
 
 ---
