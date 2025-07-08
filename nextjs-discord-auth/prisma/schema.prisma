@@ -1,0 +1,112 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+enum UserRole {
+  USER
+  ADMIN
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  role          UserRole  @default(USER)
+  accounts      Account[]
+  sessions      Session[]
+  orders        Order[]   // Relação com Pedidos
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+// Modelo para Planos
+model Plan {
+  id                     String    @id @default(cuid())
+  name                   String    @unique
+  description            String?
+  priceMonthly           Float     // Preço mensal em centavos ou como float
+  priceAnnually          Float     // Preço anual
+  stripePriceIdMonthly   String?   @unique // ID do preço no Stripe (opcional, para pagamentos)
+  stripePriceIdAnnually  String?   @unique // ID do preço no Stripe (opcional, para pagamentos)
+  discordRoleId          String?   // Opcional: ID da role no Discord a ser concedida
+  active                 Boolean   @default(true)
+  features               String[]  // Lista de benefícios/funcionalidades
+  orders                 Order[]   // Relação com Pedidos
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @updatedAt
+}
+
+enum OrderStatus {
+  PENDING
+  COMPLETED
+  FAILED
+  CANCELLED
+  REFUNDED
+}
+
+enum PlanType {
+  MONTHLY
+  ANNUALLY
+}
+
+// Modelo para Pedidos
+model Order {
+  id              String      @id @default(cuid())
+  userId          String
+  user            User        @relation(fields: [userId], references: [id])
+  planId          String
+  plan            Plan        @relation(fields: [planId], references: [id])
+  planType        PlanType    // 'MONTHLY' ou 'ANNUALLY'
+  status          OrderStatus @default(PENDING)
+  totalAmount     Float       // Valor total pago
+  currency        String      @default("BRL")
+  paymentIntentId String?     @unique // ID da intenção de pagamento (Stripe, MercadoPago, etc.)
+  expiresAt       DateTime?   // Data de expiração da assinatura/plano
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+}
