@@ -1,25 +1,23 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Kayo+Matheus+%F0%9F%91%8B;Fullstack+Developer;Building+digital+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Kayo+Matheus;Fullstack+Developer)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-```javascript
-const kayo = {
-    pronouns: "he" | "him",
-    location: "Brazil 🇧🇷",
-    currentFocus: "Building scalable web applications",
-    funFact: "I turn coffee into code ☕"
-};
-```
-
 <br>
 
 <div align="center">
   
-## ⚡ Tech Stack
+`Turning ideas into code from Brazil 🇧🇷`
+
+</div>
+
+<br>
+
+<!-- Tech Stack -->
+<div align="center">
 
 <table>
 <tr>
@@ -80,47 +78,40 @@ const kayo = {
 
 <br>
 
+<!-- GitHub Stats -->
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kayomatheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&hide_title=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayomatheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&hide_title=true"/>
+
+</div>
+
+<br>
+
 <div align="center">
   
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayomatheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayomatheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayomatheus&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 
 </div>
 
 <br>
 
+<!-- Activity Graph -->
 <div align="center">
   
-[![Kayo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayomatheus&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=kayomatheus&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/kayomatheus)
 
 </div>
 
 <br>
 
+<!-- Footer -->
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kayomatheus&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
-
-*"Code is poetry written in logic"*
+![](https://komarev.com/ghpvc/?username=kayomatheus&color=A855F7&style=flat-square)
 
 </div>
