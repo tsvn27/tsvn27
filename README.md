@@ -111,9 +111,8 @@ const kayo = {
 ## 📊 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayomatheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayomatheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kayomatheus&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=kayomatheus&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 
 </div>
 
