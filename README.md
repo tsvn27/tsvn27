@@ -10,8 +10,8 @@
 const kayo = {
     pronouns: "he" | "him",
     location: "Brazil 🇧🇷",
-    currentFocus: "Building scalable web applications",
-    funFact: "I turn coffee into code ☕"
+    currentFocus: "Building products, not just features",
+    funFact: "Making the web a bit better"
 };
 ```
 
@@ -121,6 +121,6 @@ const kayo = {
 
 <br>
 
-*"Code is poetry written in logic"*
+*"Good code speaks for itself"*
 
 </div>
