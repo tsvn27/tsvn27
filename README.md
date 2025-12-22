@@ -24,17 +24,31 @@ const kayo = {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-<br>TypeScript
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
 <br>JavaScript
 </td>
 <td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
 <br>React
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+<br>React Native
+</td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
 <br>Next.js
@@ -47,12 +61,20 @@ const kayo = {
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
 <br>Tailwind
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br>Node.js
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+<br>Webpack
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
 <br>MongoDB
@@ -70,8 +92,12 @@ const kayo = {
 <br>AWS
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-<br>Bash
+<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" width="48" height="48" />
+<br>Puppeteer
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord.js" />
+<br>Discord.js
 </td>
 </tr>
 </table>
