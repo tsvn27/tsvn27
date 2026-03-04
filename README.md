@@ -132,6 +132,6 @@ const kayo = {
 
 <br>
 
-*"Good code speaks for itself"*
+*"Good code speaks for itselfs"*
 
 </div>
